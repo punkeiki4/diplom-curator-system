@@ -1,0 +1,26 @@
+# ── .NET ──────────────────────────────────────────────────────────────
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.log
+appsettings.Development.json
+appsettings.Local.json
+
+# ── Flutter ───────────────────────────────────────────────────────────
+diplom_mobile/.dart_tool/
+diplom_mobile/.flutter-plugins
+diplom_mobile/.flutter-plugins-dependencies
+diplom_mobile/build/
+diplom_mobile/.packages
+diplom_mobile/pubspec.lock
+
+# ── OS ────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ───────────────────────────────────────────────────────────────
+.idea/
+*.swp
